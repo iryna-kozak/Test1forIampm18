@@ -1,5 +1,9 @@
 Hello，Lee
 
+the next steps are:
+- trading platform integrated to your site
+- payment system integrated
+
 There are some points to clarify with you:
 
 I DELETE SPACES AND UKRAINIAN TEXT
